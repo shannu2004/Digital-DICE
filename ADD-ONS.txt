@@ -1,0 +1,12 @@
+" ADD-ONS "
+
+#TO Add Sound Effects
+
+pip install pygame
+
+
+
+#Install tkinter(most cases its pre-installed)
+#Check if its installed
+
+python3 -m tkinter
